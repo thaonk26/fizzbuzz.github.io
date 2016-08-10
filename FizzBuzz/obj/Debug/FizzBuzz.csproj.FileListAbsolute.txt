@@ -1,0 +1,6 @@
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
